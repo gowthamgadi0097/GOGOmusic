@@ -1,0 +1,6 @@
+{
+  "name": "SoundVault",
+  "description": "Secure music player to upload, store, organize, and play your audio files with private user accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
